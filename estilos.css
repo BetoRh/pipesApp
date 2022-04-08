@@ -1,5 +1,5 @@
 html, body {
-    margin: 10px;
+    margin: 12px;
     background-color: var( --surface-c );
     font-family: var( --font-family );
 }
